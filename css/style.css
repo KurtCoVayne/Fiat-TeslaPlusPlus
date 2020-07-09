@@ -1,0 +1,38 @@
+section, footer{
+    padding: 3%;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.blanquito{
+    background-color: #FAFAFA;
+    color: black;
+}
+
+.grisesito{
+    background-color: #151515;
+}
+
+.list-item{
+    display: inline-block;
+}
+
+.modelos{
+    background-color: #E6E6E6;
+}
+
+.carta{
+    background-color: white;
+    padding: 0%;
+}
+    .carta:hover{
+        background-color: #151515;
+        color: white;
+    }
+
+footer{
+    background-color: #A4A4A4;
+}
